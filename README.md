@@ -1,2 +1,5 @@
 # tc
-Este repositório é de propriedade de TC
+Este repositório é de propriedade de TC.
+
+
+teste
